@@ -1,0 +1,16 @@
+body {
+  padding-top: 5rem;
+  background-color:#fef ;
+}
+.starter-template {
+  padding: 1rem 1rem;
+  text-align: center;
+}
+.starter-template,.border{
+  border: 10px solid #29293d;
+}
+
+.starter-template .lead ,p{
+  text-align: centre;
+  font-size: 23px;
+}
