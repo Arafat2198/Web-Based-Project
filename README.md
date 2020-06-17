@@ -1,8 +1,11 @@
 # Web-Based-Project
 Implementation of a Student Academic Portal using HTML,CSS,PHP,JS
 By
+
 Prathik Karanth – (1BM18CS139)
+
 Mohammad Arafat Khan – (1BM18CS136)
+
 Yuvraj Singh - (1BM18CS126)
 
 Academic Portal is built to find a set of diversified information’s and services for teachers, students and alumni of BMS College of Engineering. A student portal is a commonly used phrase to describe the login page where students can provide a username and password to gain access to an education organization's programs and other learning related materials. Teachers can also use the portal for ease of access to student database such as academic records, etc.
